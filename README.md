@@ -20,6 +20,7 @@ Scroll:  Zoom
 LMB:     Move
 ```
 # Color
+(for coordinates that are taken every 30s, change code for different intervals.)
 ```
 Dark blue:   0km/h
 Light Blue:  5km/h
