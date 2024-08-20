@@ -1,5 +1,7 @@
 # GPX-Track-Visualizer
 ![image](https://github.com/user-attachments/assets/9c9319fc-4d91-4af5-9260-a4f06e0fe542)
+![image](https://github.com/user-attachments/assets/074132eb-f35d-400d-9d8e-f4eb00e45fd8)
+
 # How to Use:
 Only the first time:
 ```
