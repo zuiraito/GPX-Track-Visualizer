@@ -3,11 +3,19 @@
 ![image](https://github.com/user-attachments/assets/074132eb-f35d-400d-9d8e-f4eb00e45fd8)
 
 # How to Use:
-Only the first time:
+### Installation
+Make sure [tinyxml2](https://github.com/leethomason/tinyxml2) is installed. If it isn't itstall it with:
+```
+git clone https://github.com/leethomason/tinyxml2.git
+cd tinyxml2
+make
+sudo make install
+```
+Then compile the code:
 ```
 chmod +x compile\ plot.cpp.sh && ./compile\ plot.cpp.sh
 ```
-Run:
+### Run
 ```
 ./gpx_visualizer /path/to/.gpx/files
 ```
